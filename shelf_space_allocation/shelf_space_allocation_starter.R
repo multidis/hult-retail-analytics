@@ -1,7 +1,7 @@
 #' ---
 #' title: "Shelf space allocation starter"
 #' author: "Pavel Paramonov"
-#' date: "Retail Analytics (2021)"
+#' date: "Retail Analytics"
 #' ---
 library(tidyverse)
 library(DT)
